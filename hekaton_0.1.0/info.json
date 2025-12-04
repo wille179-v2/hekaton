@@ -1,0 +1,16 @@
+{
+  "name": "planet-hekaton",
+  "version": "0.1.0",
+  "title": "Planet Hekaton",
+  "author": "Wille179",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "PlanetsLib >= 1.14.7",
+    "(?) any-planet-start >= 1.1.24"
+  ],
+  "quality_required": "true",
+  "spoiling_required": "true",
+  "description": "A Factorio planet mod focusing on megabasing and truly large-scale planetary and interplanetary logistics."
+}
