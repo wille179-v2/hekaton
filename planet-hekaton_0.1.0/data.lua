@@ -1,7 +1,10 @@
+
+
+
 if mods["any-planet-start"] then
 	APS.add_planet({
-		name = "pelagos",
+		name = "hekaton",
 		filename = "__planet-hekaton__/aps.lua",
-		technology = "planet-discovery-pelagos",
+		technology = "planet-discovery-hekaton",
 	})
 end
