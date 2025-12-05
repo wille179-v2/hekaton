@@ -12,5 +12,6 @@
   ],
   "quality_required": "true",
   "spoiling_required": "true",
+  "space_travel_required": "true",
   "description": "A Factorio planet mod focusing on megabasing and truly large-scale planetary and interplanetary logistics."
 }

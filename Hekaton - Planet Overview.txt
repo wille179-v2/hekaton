@@ -4,10 +4,16 @@ Hekaton is a world with literally infinite resources and the ability to pull som
 	- Briareus is a very liquid world with a chemical soup of resources (including lithium, fluorine, and a new resource: cobalt). Processing that soup in meaningful quantities takes a huge amount of space, which is at a premium on a world nearly entirely devoid of solid land and stone.
 	- Hekaton itself is a near ideal place to build a factory. It has strong solar, rivers of lava, steam geysers, and patches of ore (calcite, elemental sulfur, tungsten) that literally never deplete. It also has minimal cliffs and a broad, open landscape. However, its native science pack is EXTREMELY costly with a fairly long (but not all that complex) crafting chain and its technologies are incredibly expensive to research (fast, but use a lot of science packs to the point that lab throughput becomes a concern).
 	
+	
+New Resources:
+	- Elemental Sulfur (can be directly mined on Hekaton)
+	- Cobalt (Can be chemically extracted from Briareus's sea)
+	- Thorium & Plutonium (the former can be used to power a breeder reactor that turns uranium into plutonium)
+	- Metal-Polymer Slurry (can be separated into crude oil and holmium solution, found in pools on Cottus)
 
 Rewards: Hekaton's rewards are all about mass production on a colossal scale.
 	- New Long Inserter Types (https://mods.factorio.com/mod/kry-inserters) and an Extra-Long inserter (3 tiles).
-	- Turbofuel (An even more energy-efficient fuel source with a bonkers top speed for trains)
+	- Plutonium Rocket Fuel (An even more energy-efficient fuel source with a bonkers top speed for trains)
 	- Batteries (Train fuel that only requires electricity to recharge, slightly less potent than rocket fuel for speed)
 	- Long Distance Logistics
 		https://mods.factorio.com/mod/Long_Range_Delivery_Drones
