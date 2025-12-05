@@ -1,0 +1,10 @@
+Finish crude worldgen for hekaton
+	- autoplace_settings
+		- Tiles (decide which tiles I'm using, create new tiles if needed)
+		- Decoratives
+		- Entities
+	- Figure out terrain segmentation
+	- Figure out Noise
+
+Figure out items, recipes, and technologies required; create initial prototypes.
+Figure out what assets are needed from dependency mods
